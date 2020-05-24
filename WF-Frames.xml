@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<Warframes>
+    <Warframe>
+        <Name>Mesa</Name>
+        <Abilities>
+            <Ability>
+                <AName1>Ballistic Battery</AName1>
+                <Description1>When activated, this power stores damage caused by guns. 
+                    When triggered again, that damage is channeled through the next gunshot.
+                </Description1>
+            </Ability>
+            <Ability>
+                <AName2>Shooting Gallery</AName2>
+                <Description2>Gives an ally extra damage while jamming the guns of nearby enemies. This power shifts between team members.</Description2>
+            </Ability>
+            <Ability>
+                <AName3>Shatter Shield</AName3>
+                <Description3>Envelops Mesa in a barrier of energy, reflecting back incoming bullet damage.</Description3>
+            </Ability>
+            <Ability>
+                <AName4>Peacemaker</AName4>
+                <Description4>With intense focus, Mesa draws her Regulator pistols, shooting down her foes in rapid succession.</Description4>
+            </Ability>
+        </Abilities>
+    </Warframe>
+    <Warframe>
+        <Name>Gara</Name>
+        <Abilities>
+            <Ability>
+                <AName1>Shattered Lash</AName1>
+                <Description1>Lash out with stream of shattered glass, or hold for an arcing strike.</Description1>
+            </Ability>
+            <Ability>
+                <AName2>Splinter Storm</AName2>
+                <Description2>Gara's armor splinters into a maelstrom of shattered glass that slices enemies and impairs
+                    their weapons. Allies who contact the cloud are fortified against damage.
+                </Description2>
+            </Ability>
+            <Ability>
+                <AName3>Spectrorage</AName3>
+                <Description3>Trap enemies in a carousel of mirrors, forcing them to attack visions of their true selves. 
+                    Destroyed mirrors damage their attackers, as does the collapse of the carousel.
+                </Description3>
+            </Ability>
+            <Ability>
+                <AName4>Mass Vitrify</AName4>
+                <Description4>Create an expanding ring of molten glass that slowly crystallizes enemies who enter. 
+                    When the expansion is complete, the ring hardens to block weapons fire. 
+                    The ring draws extra strength from the health and shields of crystallized enemies. 
+                    Use Shattered Lash to smash the ring and send razor-sharp glass flying outward.
+                </Description4>
+            </Ability>
+        </Abilities>
+    </Warframe>
+</Warframes>
